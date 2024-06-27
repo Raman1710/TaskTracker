@@ -2,6 +2,9 @@
 
 Task Tracker is a simple and efficient web application to manage your daily tasks. It allows you to add, remove, and mark tasks as completed, with data persistence using `localStorage`.
 
+![image](https://github.com/Raman1710/TaskTracker/assets/93210962/3053e0d6-7b18-46c0-a9fa-7c78a3fcb5d9)
+
+
 ## Table of Contents
 
 - [Features](#features)
@@ -17,7 +20,7 @@ Task Tracker is a simple and efficient web application to manage your daily task
 
 ## Demo
 
-You can check out a live demo of Task Tracker [here](https://your-demo-link.com).
+You can check out a live demo of Task Tracker [here](https://task-trackerss.vercel.app/).
 
 
 ## Usage
